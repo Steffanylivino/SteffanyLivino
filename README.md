@@ -30,7 +30,7 @@ Na área de programação meu primeiro contato foi com  <b>Python</b>, além de 
 
 <br><br>
 
-![Snake animation ](https://github.com/SteffanyLivino)
+![Snake animation ](https://github.com/SteffanyLivino/steffanylivino/blob/output/github-contribution-grid-black.svg)
 
 
 
