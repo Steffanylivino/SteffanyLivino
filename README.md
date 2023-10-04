@@ -14,10 +14,10 @@
   <img align="center" alt="Steffany-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Steffany-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Steffany-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-</div>
+</div> <br><br>
 
 ![Steffany Livino 's GitHub stats](https://github-readme-stats.vercel.app/api?username=steffanylivino&show_icons=true&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Steffanylivino&layout=donut)](https://github.com/Steffanylivino/github-readme-stats)
 <div align="left">
   <a href="https://github.com/SteffanyLivino" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
