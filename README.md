@@ -1,7 +1,20 @@
 ## Olá Me Chamo Steffany Livino 
 
-![Profile views](https://gpvc.arturio.dev/steffanylivino)
+- 💻📱 cursando analise e desenvolvimento de sistemas
+- ✅ recentemente finalizei um curso com duração de 14 meses em Programação Full Stack
+- 🌐 cursando Inglês pela wizard
+- 🌐 Bootcamp da Dio Santander Angular
 
+  
+<div style="display: inline_block">
+  <img align="center" alt="Steffany-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Steffany-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Steffany-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Steffany-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Steffany-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Steffany-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Steffany-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+</div>
 
 ![Steffany Livino 's GitHub stats](https://github-readme-stats.vercel.app/api?username=steffanylivino&show_icons=true&theme=radical)
 
