@@ -16,7 +16,7 @@
   <img align="center" alt="Steffany-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div> <br><br>
 
-![Steffany Livino 's GitHub stats](https://github-readme-stats.vercel.app/api?username=steffanylivino&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Steffanylivino&layout=donut)](https://github.com/Steffanylivino/github-readme-stats)
 <div align="left">
   <a href="https://github.com/SteffanyLivino" target="_blank">
@@ -40,10 +40,12 @@
 
 Faço faculdade de  <b>Analise e Desenvolvimento de Sistemas </b> pela Uninassau (2023) além de faz um curso tecnico de Programação Full Stack  na <b> Infinity School</b>
 Na área de programação meu primeiro contato foi com  <b>Python</b>, além de <b> MYSQL</b>, <b> SQL</b>, <b> Tkinter</b>. Procuro está sempre atualizada nesta área.
-
+<p align="center">
+  <img href="https://github.com/Steffanylivino/SteffanyLivino/blob/main/Img">
+</p>
 <br><br>
 
-![snake gif](https://github.com/Steffanylivino/Steffanylivino/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
