@@ -41,7 +41,7 @@
 Faço faculdade de  <b>Analise e Desenvolvimento de Sistemas </b> pela Uninassau (2023) além de faz um curso tecnico de Programação Full Stack  na <b> Infinity School</b>
 Na área de programação meu primeiro contato foi com  <b>Python</b>, além de <b> MYSQL</b>, <b> SQL</b>, <b> Tkinter</b>. Procuro está sempre atualizada nesta área.
 <p align="center">
-  <img href="https://github.com/Steffanylivino/SteffanyLivino/blob/main/Img">
+  <img widht="300" height="400" src="https://github.com/Steffanylivino/SteffanyLivino/blob/main/.github/octocat-1696463017772.png">
 </p>
 <br><br>
 
