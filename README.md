@@ -38,8 +38,9 @@
   <b>"Cada desafio leva a uma nova aprendizagem." </b>
 </div><br>
 
-Faço faculdade de  <b>Analise e Desenvolvimento de Sistemas </b> pela Uninassau (2023) além de faz um curso tecnico de Programação Full Stack  na <b> Infinity School</b>
-Na área de programação meu primeiro contato foi com  <b>Python</b>, além de <b> MYSQL</b>, <b> SQL</b>, <b> Tkinter</b>. Procuro está sempre atualizada nesta área.
+"Estou atualmente cursando a graduação em <b>Análise e Desenvolvimento de Sistemas</b> pela Universidade Anhembi Morumbi, com previsão de conclusão em 2025. Paralelamente, estou terminei um curso tecnico  de <b>Programação Full Stack</b> na renomada <b>Infinity School</b>.
+
+Meu primeiro contato com a programação foi por meio da linguagem <b>Python</b>, e desde então tenho me dedicado a aprender e aprimorar minhas habilidades em diversas áreas, incluindo <b>MySQL</b>, <b>SQL</b> e <b>Tkinter</b>. Estou empenhada em manter-me sempre atualizada nesta área em constante evolução."
 <p align="center">
   <img widht="300" height="400" src="https://github.com/Steffanylivino/SteffanyLivino/blob/main/.github/octocat-1696463017772.png">
 </p>
